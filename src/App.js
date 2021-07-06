@@ -1,8 +1,8 @@
-import Header from './components/common/Header';
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
-    <Header title="Dashboard"/>
+    <Dashboard/>
   );
 }
 
